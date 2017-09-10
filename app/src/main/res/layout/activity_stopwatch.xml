@@ -13,7 +13,7 @@
         android:id="@+id/time_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="0:00:04"
+        android:text=""
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:textSize="92sp"
@@ -49,4 +49,5 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
         android:onClick="onClickReset"/>
+
 </RelativeLayout>
